@@ -12,7 +12,7 @@
     
   - Sentiment Analysis 
   
-    **(https://github.com/jazmiahenry/Sentiment)**
+    **(https://github.com/jazmiahenry/Sentiment, https://github.com/jazmiahenry/Combined_Intelligence)**
     
   - Longitudinal Risk Analysis 
   
