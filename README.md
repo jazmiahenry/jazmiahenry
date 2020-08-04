@@ -20,8 +20,11 @@
     
   - Market Prediction 
   
-    **(https://github.com/jazmiahenry/SNPMarketOverTime, 
-    https://github.com/jazmiahenry/SNP_GDP_Regression)**
+    **(https://github.com/jazmiahenry/SNPMarketOverTime,**
+    
+    **https://github.com/jazmiahenry/SNP_GDP_Regression,**
+    
+    **https://github.com/jazmiahenry/RNN_StockPrediction)**
     
   - Between and Within Subject Hypothetical Analysis 
   
