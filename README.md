@@ -34,6 +34,11 @@
   - Machine Learning Prediction Analysis 
   
     **(https://github.com/jazmiahenry/MLCoinToss)**
+    
+  - Statistical Analysis
+  
+    **(https://github.com/jazmiahenry/Ethics4AllSubmission)**
+    * Hackathon Winner
 
 - I'm currently learning:
   - Deep Learning with GPUs
