@@ -2,8 +2,13 @@
 
 - Pronouns: She/Her
 
-- I am currently a Computer Science Master's Candidate at University of Pennsylvania
-![PennEngineeringLogo](https://user-images.githubusercontent.com/48301423/87237239-bf12b480-c3c1-11ea-86f5-678ef8b5612a.png)
+- Columbia University GSAS '18
+
+<img width="500" alt="logo" src="https://user-images.githubusercontent.com/48301423/96311001-855fd400-0fd6-11eb-93d3-7037402d82a3.png">
+
+- Tulane University BA '16
+
+![standard](https://user-images.githubusercontent.com/48301423/96311110-c35cf800-0fd6-11eb-8307-3001a213fb4c.png)
 
 - I have worked on projects that deal with:
   - Multilabel Image Classification 
