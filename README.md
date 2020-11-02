@@ -44,6 +44,10 @@
   
     **(https://github.com/jazmiahenry/Ethics4AllSubmission)**
     * Hackathon Winner
+  
+  - Data Visualization
+  
+    **(https://github.com/jazmiahenry/dataanalysisandviz)**
 
 - I'm currently learning:
   - Deep Learning with GPUs
