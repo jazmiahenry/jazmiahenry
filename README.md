@@ -1,19 +1,31 @@
 # Welcome to my profile!
 
-- Pronouns: She/Her
+Hello! My name is Jazmia Henry and I am a Senior AI Engineer @ Microsoft and DPhil Candidate at University of Oxford. I have a cool website called (https://jazmiahenry.com) that heras information about my work as a leader in AI. You can find some of my code here. My Pronouns are She/Her. 
 
-- Columbia University GSAS '18
+## Select Projects 
 
-<img width="500" alt="logo" src="https://user-images.githubusercontent.com/48301423/96311001-855fd400-0fd6-11eb-93d3-7037402d82a3.png">
-
-- Tulane University BA '16
-
-![standard](https://user-images.githubusercontent.com/48301423/96311110-c35cf800-0fd6-11eb-8307-3001a213fb4c.png)
-
-- I have worked on projects that deal with:
-  - Multilabel Image Classification 
+  - Responsible AI
     
-    **(https://github.com/jazmiahenry/FashionClassifier)**  
+    **(https://github.com/jazmiahenry/fun-with-word-embs)**
+    
+    **(https://github.com/jazmiahenry/responsible-ai)**
+    
+  - Reinforcement Learning and Imitation Learning
+ 
+    **(https://github.com/jazmiahenry/atari_gail)**
+
+    **(https://github.com/jazmiahenry/MLO-Capstone-Public)**
+
+  - Dataset Curation
+ 
+    **(https://github.com/jazmiahenry/Impeach_Tweets_Data)**
+    
+    **(https://github.com/jazmiahenry/aave_corpora)**
+
+  - Recommendation Systems
+
+    **(https://github.com/jazmiahenry/home_recommender_system)**
+    
     
   - Sentiment Analysis 
   
@@ -48,12 +60,17 @@
   - Data Visualization
   
     **(https://github.com/jazmiahenry/dataanalysisandviz)**
+    **(https://github.com/jazmiahenry/stembills)**
 
-- I'm currently learning:
-  - Deep Learning with GPUs
+## My Research Topics
+- I'm currently doing research on:
+  - xAI (explainable AI)
+  - Scaling Laws
+  - Counterfactual Dataset Creation
+  - Large Language Model
   
 - I'm looking to collaborate on:  
-  - Projects that involve reducing bias in machine learning
+  - Publications around my research interests
   
 - I am interested in: 
 
@@ -61,17 +78,31 @@
   - Algorithmic Game Theory 
   - Computational Learning Theory
 
-- My Stack:
+## My Stack
 
   - Python 
   - R
-  - Ruby
-  - Java
-  - TPUs (Tensorflow Processing Units)
   - SQL
   - Docker
   - Hadoop
   - Spark
+ 
+## My Education
+ 
+- University of Oxford DPhil, Social Data Science '25
+  
+![t9xcOMlI_400x400](https://github.com/jazmiahenry/MLO-Capstone-Public/assets/48301423/a64e914f-7cbb-4363-b593-e8bdd0f26a95)
+  
+- Stanford Affiliate Fellow '21 - Present
+![hai_1](https://github.com/jazmiahenry/MLO-Capstone-Public/assets/48301423/1c84eaf5-97d6-488c-bd05-6b0da65511f9)
+
+- Columbia University GSAS, Political Science and Economics with a focus in Quantitative Methods '18
+
+<img width="500" alt="logo" src="https://user-images.githubusercontent.com/48301423/96311001-855fd400-0fd6-11eb-93d3-7037402d82a3.png">
+
+- Tulane University BA, Philosophy, English and Political Science (Latin and Departmental Honors) '16
+
+![standard](https://user-images.githubusercontent.com/48301423/96311110-c35cf800-0fd6-11eb-8307-3001a213fb4c.png)
    
 <!--
 **jazmiahenry/jazmiahenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
