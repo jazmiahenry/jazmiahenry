@@ -46,11 +46,7 @@ Hello! My name is Jazmia Henry and I am a Senior AI Engineer @ Microsoft and DPh
   - Between and Within Subject Hypothetical Analysis 
   
     **(https://github.com/jazmiahenry/alphabets , 
-    https://github.com/jazmiahenry/designtime)**
-    
-  - Machine Learning Prediction Analysis 
-  
-    **(https://github.com/jazmiahenry/MLCoinToss)**
+    https://githubcom/jazmiahenry/designtime)**
     
   - Statistical Analysis
   
