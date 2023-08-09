@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-Hello! My name is Jazmia Henry and I am a Senior AI Engineer @ Microsoft and DPhil Candidate at University of Oxford. I have a cool website called (https://jazmiahenry.com) that heras information about my work as a leader in AI. You can find some of my code here. My Pronouns are She/Her. 
+Hello! My name is Jazmia Henry and I am a Senior AI Engineer @ Microsoft and DPhil Candidate at University of Oxford. I have a cool website called https://jazmiahenry.com that heras information about my work as a leader in AI. You can find some of my code here. My Pronouns are She/Her. 
 
 ## Select Projects 
 
