@@ -56,6 +56,7 @@ Hello! My name is Jazmia Henry and I am a Senior AI Engineer @ Microsoft and DPh
   - Data Visualization
   
     **(https://github.com/jazmiahenry/dataanalysisandviz)**
+    
     **(https://github.com/jazmiahenry/stembills)**
 
 ## My Research Topics
