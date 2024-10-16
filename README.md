@@ -1,117 +1,60 @@
 # Welcome to my profile!
 
-Hello! My name is Jazmia Henry and I am a Senior AI Engineer @ Microsoft and DPhil Candidate at University of Oxford. I have a cool website called https://jazmiahenry.com that has information about my work as a leader in AI. You can find some of my code here. My Pronouns are She/Her. 
+Welcome to my GitHub repository! Here, you'll find my projects and packages related to AI, Machine Learning, and innovative technological solutions. Below are some highlighted projects, including my open-source tools and recent developments.
 
-## Select Projects 
+## Featured Projects
+1. IsoPro
+Description: IsoPro provides powerful simulation environments designed for AI testing and optimization. It offers custom environment creation, conversation simulations, adversarial testing, and reinforcement learning simulations.
 
-  - Responsible AI
-    
-    **(https://github.com/jazmiahenry/fun-with-word-embs)**
-    
-    **(https://github.com/jazmiahenry/responsible-ai)**
-    
-  - Reinforcement Learning and Imitation Learning
- 
-    **(https://github.com/jazmiahenry/atari_gail)**
+Repo: [IsoPro](https://github.com/iso-ai/isopro)
 
-    **(https://github.com/jazmiahenry/MLO-Capstone-Public)**
+Key Technologies: AI Simulation, Reinforcement Learning, Adversarial Testing
 
-  - Dataset Curation
- 
-    **(https://github.com/jazmiahenry/Impeach_Tweets_Data)**
-    
-    **(https://github.com/jazmiahenry/aave_corpora)**
+2. IsoZero
+Description: An open-source AI tool for zero-shot learning, enabling efficient simulations and testing for AI agents without the need for extensive data training. IsoZero focuses on simplifying AI agent deployment and testing within custom environments.
 
-  - Recommendation Systems
+Repo: [IsoZero Examples](https://github.com/iso-ai/isozero_examples)
 
-    **(https://github.com/jazmiahenry/home_recommender_system)**
-    
-    
-  - Sentiment Analysis 
-  
-    **(https://github.com/jazmiahenry/Sentiment, https://github.com/jazmiahenry/Combined_Intelligence)**
-    
-  - Longitudinal Risk Analysis 
-  
-    **(https://github.com/jazmiahenry/riskperception)**
-    
-  - Market Prediction 
-  
-    **(https://github.com/jazmiahenry/SNPMarketOverTime,**
-    
-    **https://github.com/jazmiahenry/SNP_GDP_Regression,**
-    
-    **https://github.com/jazmiahenry/RNN_StockPrediction)**
-    
-  - Between and Within Subject Hypothetical Analysis 
-  
-    **(https://github.com/jazmiahenry/alphabets , 
-    https://githubcom/jazmiahenry/designtime)**
-    
-  - Statistical Analysis
-  
-    **(https://github.com/jazmiahenry/Ethics4AllSubmission)**
-    * Hackathon Winner
-  
-  - Data Visualization
-  
-    **(https://github.com/jazmiahenry/dataanalysisandviz)**
-    
-    **(https://github.com/jazmiahenry/stembills)**
+Key Technologies: Zero-shot Learning, Simulation, AI Agent Testing
 
-## My Research Topics
-- I'm currently doing research on:
-  - xAI (explainable AI)
-  - Scaling Laws
-  - Counterfactual Dataset Creation
-  - Large Language Model
-  
-- I'm looking to collaborate on:  
-  - Publications around my research interests
-  
-- I am interested in: 
+3. Self-Driving Car Simulation
+Description: A self-driving car simulation environment using PEP8 and torch. It models complex physics and scenarios such as rush hour traffic, hills, speed limits, and weather conditions. The environment follows first principles to ensure accurate simulations.
 
-  - Ethical Algorithms 
-  - Algorithmic Game Theory 
-  - Computational Learning Theory
+Repo: [Self-Driving Car Simulation](https://github.com/jazmiahenry/car_simulator)
 
-## My Stack
+Key Technologies: Reinforcement Learning, Autonomous Systems
 
-  - Python 
-  - R
-  - SQL
-  - Docker
-  - Hadoop
-  - Spark
- 
-## My Education
- 
-- University of Oxford DPhil, Social Data Science '25
-  
-![t9xcOMlI_400x400](https://github.com/jazmiahenry/MLO-Capstone-Public/assets/48301423/a64e914f-7cbb-4363-b593-e8bdd0f26a95)
-  
-- Stanford Affiliate Fellow '21 - Present
-![hai_1](https://github.com/jazmiahenry/MLO-Capstone-Public/assets/48301423/1c84eaf5-97d6-488c-bd05-6b0da65511f9)
+4. Artificial Intelligence as Game Players
+Description: Artificial Intelligence is becoming a constant in human interaction and examining how these models portray fairness in game play can give us some insight into how models make decisions.
 
-- Columbia University GSAS, Political Science and Economics with a focus in Quantitative Methods '18
+Repo: [Prompting Fairness](https://github.com/jazmiahenry/prompting_fairness)
 
-<img width="500" alt="logo" src="https://user-images.githubusercontent.com/48301423/96311001-855fd400-0fd6-11eb-93d3-7037402d82a3.png">
+Key Technologies: Prompt Engineering, Artificial Intelligence, Game Theory, ANOVA, Regression
 
-- Tulane University BA, Philosophy, English and Political Science (Latin and Departmental Honors) '16
+5. African American Vernacular English Corpus
+Description: A dataset documenting authentic usage of African American Vernacular English (AAVE), contributing to natural language processing research and cultural linguistics.
 
-![standard](https://user-images.githubusercontent.com/48301423/96311110-c35cf800-0fd6-11eb-8307-3001a213fb4c.png)
-   
-<!--
-**jazmiahenry/jazmiahenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repo: [AAVE Corpus](https://github.com/jazmiahenry/aave_corpora)
 
-Here are some ideas to get you started:
+Key Technologies: NLP, Data Collection, Linguistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Consulting Services
+In addition to open-source contributions, I offer professional consulting services, including:
+
+- AI Strategy & Roadmap Development
+- AI Agent Development
+- MLOps Consulting
+- AI Ethics & Fairness
+
+### Explore my Consulting Packages:
+
+- Platinum Advisory Package
+- Enterprise Transformation Package
+- VIP Executive Strategy Package
+- AI Innovation Sprint
+- Custom AI Agent Development
+
+If you're interested in consulting, please reach out via Calendly.
+
+## About Me
+I have over a decade of experience building Machine Learning and AI solutions for many companies including senior leadership positions at Microsoft, Motley Fool, and Morgan Stanley. I’ve also taught over 1,000 students and contributed to key areas of AI research, including Bias Mitigation, AI Ethics, and MLOps.
