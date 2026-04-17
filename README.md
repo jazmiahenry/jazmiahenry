@@ -108,10 +108,10 @@ Generative Adversarial Imitation Learning applied to Atari game environments.
 |------|-------|-------|
 | 2026 | NeurIPS E&D *(submitted)* | Beyond Static Snapshots: A Grounded Evaluation Framework for Language Models at the Agentic Frontier |
 | 2026 | Bloomsbury Academic | MLOps: A Primer for Policymakers — Ch. 7 in *Global Platform Governance* |
+| 2026 | USPTO | Simulation Evaluation Platform for Agentic AI *(patent published)* |
+| 2024 | McGraw Hill | Ch. 7 in Mitigating Bias in Machine Learning, Berry & Marshall, eds. |
 | 2023 | NeurIPS Black in AI | Scaling Laws or the Law of Diminishing Returns (**Top 5% Paper**) |
 | 2022 | NeurIPS Workshop | **Keynote**: Mitigating Bias in Production for LLMs *(Global South in AI)* |
-| — | McGraw Hill | Mitigating Bias in Machine Learning *(textbook chapter)* |
-| — | USPTO | Simulation Evaluation Platform for Agentic AI *(patent published)* |
 
 ---
 
